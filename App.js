@@ -31,22 +31,16 @@ const App: () => React$Node = () => {
     <>
       <StatusBar barStyle="dark-content" />
       
-        <View
-         >
-          
+        <View>
           <View>
-                  <Comp />
-                  
-                </View>
+              <Comp />    
+               </View>
               <View style={styles.body}>
             <View style={styles.sectionContainer}> 
             </View>
           </View>
         </View>
-      
-          
-             
-     
+
     </>
   );
 };
