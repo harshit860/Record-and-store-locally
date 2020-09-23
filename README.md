@@ -8,4 +8,4 @@ react-native-permissions
 react-native-sound
 react-native-audio-record
 
-!APK INCLUDED
+APK INCLUDED
